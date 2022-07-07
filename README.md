@@ -1,1 +1,1 @@
-# reaact-invoiceIt
+# react-invoiceIt
